@@ -10,3 +10,7 @@ wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2022-01.par
 
 requirements
 ! pip install pyarrow
+
+
+Week 2
+#install mlflow
