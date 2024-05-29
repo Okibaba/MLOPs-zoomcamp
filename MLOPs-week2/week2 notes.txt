@@ -5,3 +5,6 @@ MLflow videos part
 
 05/28/2024
 Logging metrics with MLflow
+
+05/29/2024
+Using MLFLow for model registry
