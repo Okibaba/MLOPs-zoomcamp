@@ -8,3 +8,6 @@ Logging metrics with MLflow
 
 05/29/2024
 Using MLFLow for model registry
+
+05/31/2024
+-ML flow in practice video 
