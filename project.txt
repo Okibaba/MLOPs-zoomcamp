@@ -14,3 +14,7 @@ requirements
 
 Week 2
 #install mlflow
+
+
+mlflow 
+mlflow-artifacts-okibaba1
