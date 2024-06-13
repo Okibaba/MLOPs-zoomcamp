@@ -18,3 +18,5 @@ Week 2
 
 mlflow 
 mlflow-artifacts-okibaba1
+test pw- admin
+okibabamlflow
