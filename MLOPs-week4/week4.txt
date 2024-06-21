@@ -1,1 +1,4 @@
 week4 -> 
+
+06/20/20
+ML design book reviewed deployment strategies
