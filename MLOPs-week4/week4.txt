@@ -2,3 +2,6 @@ week4 ->
 
 06/20/20
 ML design book reviewed deployment strategies
+
+06/23/2024
+Video 1 in ML deployment completed.
