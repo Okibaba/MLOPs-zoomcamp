@@ -10,4 +10,5 @@ Video 1 in ML deployment completed.
 video 2 1st 15 mins
 
 
-7/11/2024
+7/20/2024
+took a month's break, will be transitioning to LLM course next
